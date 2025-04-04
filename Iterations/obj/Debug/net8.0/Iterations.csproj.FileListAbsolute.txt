@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\bin\Debug\net8.0\Iterations.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\bin\Debug\net8.0\Iterations.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\bin\Debug\net8.0\Iterations.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\bin\Debug\net8.0\Iterations.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\bin\Debug\net8.0\Iterations.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\refint\Iterations.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\Iterations.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Iterations\obj\Debug\net8.0\ref\Iterations.dll

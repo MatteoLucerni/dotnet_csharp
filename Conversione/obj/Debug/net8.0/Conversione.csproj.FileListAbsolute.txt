@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\bin\Debug\net8.0\Conversione.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\bin\Debug\net8.0\Conversione.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\bin\Debug\net8.0\Conversione.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\bin\Debug\net8.0\Conversione.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\bin\Debug\net8.0\Conversione.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\refint\Conversione.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\Conversione.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\Conversione\obj\Debug\net8.0\ref\Conversione.dll

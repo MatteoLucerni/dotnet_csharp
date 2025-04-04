@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\bin\Debug\net8.0\TypeInference.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\bin\Debug\net8.0\TypeInference.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\bin\Debug\net8.0\TypeInference.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\bin\Debug\net8.0\TypeInference.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\bin\Debug\net8.0\TypeInference.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\refint\TypeInference.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\TypeInference.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TypeInference\obj\Debug\net8.0\ref\TypeInference.dll

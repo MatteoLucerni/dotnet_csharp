@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\bin\Debug\net8.0\RecursiveFactorial.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\bin\Debug\net8.0\RecursiveFactorial.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\bin\Debug\net8.0\RecursiveFactorial.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\bin\Debug\net8.0\RecursiveFactorial.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\bin\Debug\net8.0\RecursiveFactorial.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\refint\RecursiveFactorial.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\RecursiveFactorial.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecursiveFactorial\obj\Debug\net8.0\ref\RecursiveFactorial.dll

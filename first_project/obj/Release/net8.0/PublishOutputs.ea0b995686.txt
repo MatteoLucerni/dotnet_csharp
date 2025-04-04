@@ -1,0 +1,5 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\first_project\bin\Release\net8.0\publish\first_project.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\first_project\bin\Release\net8.0\publish\first_project.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\first_project\bin\Release\net8.0\publish\first_project.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\first_project\bin\Release\net8.0\publish\first_project.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\first_project\bin\Release\net8.0\publish\first_project.pdb

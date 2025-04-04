@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll
