@@ -1,0 +1,15 @@
+D:\code\dotnet_csharp\Structures\bin\Debug\net8.0\Structures.exe
+D:\code\dotnet_csharp\Structures\bin\Debug\net8.0\Structures.deps.json
+D:\code\dotnet_csharp\Structures\bin\Debug\net8.0\Structures.runtimeconfig.json
+D:\code\dotnet_csharp\Structures\bin\Debug\net8.0\Structures.dll
+D:\code\dotnet_csharp\Structures\bin\Debug\net8.0\Structures.pdb
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.AssemblyInfoInputs.cache
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.AssemblyInfo.cs
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.csproj.CoreCompileInputs.cache
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.sourcelink.json
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.dll
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\refint\Structures.dll
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.pdb
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\Structures.genruntimeconfig.cache
+D:\code\dotnet_csharp\Structures\obj\Debug\net8.0\ref\Structures.dll
