@@ -20,14 +20,27 @@
             BookOne.Loan(UserTwo);
         }
     }
-    public class User()
+
+    public class Person()
     {
-        public int Id { get; set; }
         public string? Name { get; set; }
         public string? Surname { get; set; }
-        public string? SubscriptionDate { get; set; }
 
         public string? Denomination
+        {
+            get
+            {
+                return $"User {Name} {Surname}";
+            }
+        }
+    }
+    public class User : Person
+    {
+        public int Id { get; set; }
+
+        public string? SubscriptionDate { get; set; }
+
+        public new string? Denomination
         {
             get
             {
