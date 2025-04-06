@@ -4,11 +4,11 @@
     {
         public static void Main(string[] args)
         {
-            User UserOne = new(1, "Matteo", "Pini", "03/02/2024");
-            Console.WriteLine(UserOne.Denomination());
-            
-            User UserTwo = new(2, "Giorgio", "Gozzi", "15/07/2025");
-            Console.WriteLine(UserTwo.Denomination());
+            User UserOne = new() { Id = 1, Name = "Matteo", Surname = "Pini", SubscriptionDate = "03/02/2024" };
+            Console.WriteLine(UserOne.Denomination);
+
+            User UserTwo = new() { Id = 2, Name = "Giorgio", Surname = "Gozzi", SubscriptionDate = "07/02/2024" };
+            Console.WriteLine(UserTwo.Denomination);
 
             Book BookOne = new(1, "Eragon", "Paolini");
 
@@ -20,16 +20,19 @@
             BookOne.Loan(UserTwo);
         }
     }
-    public class User(int id, string name, string surname, string subscriptionDate)
+    public class User()
     {
-        private readonly int id = id;
-        private readonly string name = name;
-        private readonly string surname = surname;
-        private readonly string subscriptionDate = subscriptionDate;
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public string? Surname { get; set; }
+        public string? SubscriptionDate { get; set; }
 
-        public string Denomination()
+        public string? Denomination
         {
-            return $"User n{id}: {name} {surname}, since {subscriptionDate}";
+            get
+            {
+                return $"User n{Id}: {Name} {Surname}, since {SubscriptionDate}";
+            }
         }
     }
 
@@ -53,7 +56,7 @@
             }
             else
             {
-                Console.WriteLine($"The book is already borrowed by {User.Denomination()}");
+                Console.WriteLine($"The book is already borrowed by {User.Denomination}");
             }
         }
 
@@ -65,7 +68,7 @@
             }
             else
             {
-                Console.WriteLine($"{User.Denomination()} has returend the book");
+                Console.WriteLine($"{User.Denomination} has returend the book");
                 User = null;
             }
         }
