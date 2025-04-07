@@ -26,7 +26,7 @@
         public string? Name { get; set; }
         public string? Surname { get; set; }
 
-        public string? Denomination
+        public virtual string? Denomination
         {
             get
             {
@@ -40,7 +40,7 @@
 
         public string? SubscriptionDate { get; set; }
 
-        public new string? Denomination
+        public override string? Denomination
         {
             get
             {

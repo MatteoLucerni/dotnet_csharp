@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\dotnet_csharp\\Library\\Library.csproj": {}
+    "C:\\Users\\Matteo\\Desktop\\work_space\\dotnet_csharp\\Library\\Library.csproj": {}
   },
   "projects": {
-    "D:\\code\\dotnet_csharp\\Library\\Library.csproj": {
+    "C:\\Users\\Matteo\\Desktop\\work_space\\dotnet_csharp\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\dotnet_csharp\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\Matteo\\Desktop\\work_space\\dotnet_csharp\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "D:\\code\\dotnet_csharp\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\Zzzma\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\dotnet_csharp\\Library\\obj\\",
+        "projectPath": "C:\\Users\\Matteo\\Desktop\\work_space\\dotnet_csharp\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matteo\\Desktop\\work_space\\dotnet_csharp\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Zzzma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
