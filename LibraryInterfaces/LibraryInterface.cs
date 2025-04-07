@@ -57,17 +57,12 @@ namespace LibraryInterfaces
 
         static void Main(string[] args)
         {
-            Person p1 = new(1, 2000, "Matteo", "Ferrari");
-            Person p2 = new(2, 2001, "Gianni", "Telli");
-            Organization o1 = new(2, 1980, "Microsoft");
-            Organization o2 = new(3, 1999, "Apple");
-
-            users = new IUtente[4];
-
-            users[0] = p1;
-            users[1] = p2;
-            users[2] = o1;
-            users[3] = o2;
+            users = [
+                new Person(1, 2000, "Matteo", "Ferrari"),
+                new Person(2, 2001, "Gianni", "Telli"),
+                new Organization(2, 1980, "Microsoft"),
+                new Organization(3, 1999, "Apple"),
+            ];
 
             PrintUsers();
         }
