@@ -1,0 +1,15 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\bin\Debug\net8.0\LibraryInterfaces.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\bin\Debug\net8.0\LibraryInterfaces.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\bin\Debug\net8.0\LibraryInterfaces.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\bin\Debug\net8.0\LibraryInterfaces.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\bin\Debug\net8.0\LibraryInterfaces.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.sourcelink.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\refint\LibraryInterfaces.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\LibraryInterfaces.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\LibraryInterfaces\obj\Debug\net8.0\ref\LibraryInterfaces.dll
