@@ -1,0 +1,15 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\bin\Debug\net8.0\RecordsDataModels.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\bin\Debug\net8.0\RecordsDataModels.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\bin\Debug\net8.0\RecordsDataModels.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\bin\Debug\net8.0\RecordsDataModels.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\bin\Debug\net8.0\RecordsDataModels.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.sourcelink.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\refint\RecordsDataModels.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\RecordsDataModels.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\RecordsDataModels\obj\Debug\net8.0\ref\RecordsDataModels.dll
