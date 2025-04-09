@@ -1,0 +1,1 @@
+﻿foreach (string arg in args) Console.WriteLine($"Arg: {arg}");

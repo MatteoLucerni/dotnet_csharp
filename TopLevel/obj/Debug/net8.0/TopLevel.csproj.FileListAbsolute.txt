@@ -1,0 +1,15 @@
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\bin\Debug\net8.0\TopLevel.exe
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\bin\Debug\net8.0\TopLevel.deps.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\bin\Debug\net8.0\TopLevel.runtimeconfig.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\bin\Debug\net8.0\TopLevel.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\bin\Debug\net8.0\TopLevel.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.sourcelink.json
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\refint\TopLevel.dll
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.pdb
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\TopLevel.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\work_space\dotnet_csharp\TopLevel\obj\Debug\net8.0\ref\TopLevel.dll
