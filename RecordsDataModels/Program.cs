@@ -47,6 +47,9 @@ Console.WriteLine(shortBookData5 == shortBookData1);
 ShortBookDataDigital shortBookDataDigital1 = new("The Great Gatsby", "F. Scott Fitzgerald", 200);
 Console.WriteLine(shortBookDataDigital1);
 
+Console.WriteLine("Premi un tasto per terminare...");
+Console.ReadKey();
+
 namespace RecordsDataModels
 {
     public class Book
